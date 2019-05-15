@@ -1,0 +1,1 @@
+convert_file_encoding('VANDERPOL.m','myFileUTF8.m','ISO-8859-1','UTF-8')
